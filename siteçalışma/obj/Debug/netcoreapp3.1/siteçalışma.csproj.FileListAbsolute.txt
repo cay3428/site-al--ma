@@ -1,0 +1,13 @@
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\bin\Debug\netcoreapp3.1\siteçalışma.exe
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\bin\Debug\netcoreapp3.1\siteçalışma.deps.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\bin\Debug\netcoreapp3.1\siteçalışma.runtimeconfig.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\bin\Debug\netcoreapp3.1\siteçalışma.runtimeconfig.dev.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\bin\Debug\netcoreapp3.1\siteçalışma.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\bin\Debug\netcoreapp3.1\siteçalışma.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\obj\Debug\netcoreapp3.1\siteçalışma.csprojAssemblyReference.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\obj\Debug\netcoreapp3.1\siteçalışma.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\obj\Debug\netcoreapp3.1\siteçalışma.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\obj\Debug\netcoreapp3.1\siteçalışma.csproj.CoreCompileInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\obj\Debug\netcoreapp3.1\siteçalışma.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\obj\Debug\netcoreapp3.1\siteçalışma.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\siteçalışma\obj\Debug\netcoreapp3.1\siteçalışma.genruntimeconfig.cache
