@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "birim", "..\birim\birim.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sınıf tanıtımı", "..\sınıf tanıtımı\sınıf tanıtımı.csproj", "{E8794537-0BA9-4EE2-94D3-5CB4BAAD0409}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "market", "..\market\market.csproj", "{F4B88463-E7FB-45FC-BEA9-9DEF6C25DE32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matematik", "..\matematik\matematik.csproj", "{AC0F79EB-AC16-4891-B843-5A6DE2E5121F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E8794537-0BA9-4EE2-94D3-5CB4BAAD0409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8794537-0BA9-4EE2-94D3-5CB4BAAD0409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8794537-0BA9-4EE2-94D3-5CB4BAAD0409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B88463-E7FB-45FC-BEA9-9DEF6C25DE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B88463-E7FB-45FC-BEA9-9DEF6C25DE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B88463-E7FB-45FC-BEA9-9DEF6C25DE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B88463-E7FB-45FC-BEA9-9DEF6C25DE32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0F79EB-AC16-4891-B843-5A6DE2E5121F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0F79EB-AC16-4891-B843-5A6DE2E5121F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0F79EB-AC16-4891-B843-5A6DE2E5121F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0F79EB-AC16-4891-B843-5A6DE2E5121F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

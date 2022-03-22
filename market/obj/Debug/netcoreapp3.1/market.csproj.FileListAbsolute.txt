@@ -1,0 +1,13 @@
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\obj\Debug\netcoreapp3.1\market.csprojAssemblyReference.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\obj\Debug\netcoreapp3.1\market.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\obj\Debug\netcoreapp3.1\market.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\obj\Debug\netcoreapp3.1\market.csproj.CoreCompileInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\bin\Debug\netcoreapp3.1\market.exe
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\bin\Debug\netcoreapp3.1\market.deps.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\bin\Debug\netcoreapp3.1\market.runtimeconfig.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\bin\Debug\netcoreapp3.1\market.runtimeconfig.dev.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\bin\Debug\netcoreapp3.1\market.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\bin\Debug\netcoreapp3.1\market.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\obj\Debug\netcoreapp3.1\market.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\obj\Debug\netcoreapp3.1\market.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\market\obj\Debug\netcoreapp3.1\market.genruntimeconfig.cache
