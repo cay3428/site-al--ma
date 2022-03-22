@@ -58,7 +58,13 @@ namespace sınıf_tanıtımı
 
             //Console.WriteLine(seçim1.Yargı + "  : " + seçim1.Eğitmen);
 
+            seçim [] kaçışlar =new seçim[] {seçim1,seçim2,seçim3,seçim4,seçim5,seçim6,seçim7 };
 
+
+            foreach(var seçim in kaçışlar)
+            {
+
+                Console.WriteLine(seçim.Yargı + "  : " + seçim.Eğitmen);
 
 
 
@@ -66,18 +72,18 @@ namespace sınıf_tanıtımı
 
 
     }
-    class seçim
-    {
-        public string Yargı { get; set; }
+        class seçim
+        {
+            public string Yargı { get; set; }
 
-        public string Eğitmen { get; set; }
+            public string Eğitmen { get; set; }
 
-        public int Seçimoranı { get; set; }
-
-
+            public int Seçimoranı { get; set; }
 
 
 
+
+        }
     }
 }
 
