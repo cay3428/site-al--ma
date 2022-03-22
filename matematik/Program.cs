@@ -4,9 +4,18 @@ namespace matematik
 {
     class Program
     {
-        static void Main(string[] args)
+        public void topla(int sayi1,int sayi2)
         {
-            Console.WriteLine("Hello World!");
+            int toplam = sayi1 + sayi2;
+            Console.WriteLine("Sonuç" + toplam);
+
+
+
+
         }
+
+
+
+
     }
 }

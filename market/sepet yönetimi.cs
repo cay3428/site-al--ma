@@ -13,13 +13,15 @@ namespace market
             //Console.WriteLine("çalmadın vay" + urun.Adi);
 
 
+        }
 
-
-
+        public void Edin2(string urunAdi, string açıklama, double fiyat)
+        {
 
 
 
         }
+
 
     }
 }
