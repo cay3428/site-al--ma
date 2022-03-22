@@ -1,0 +1,12 @@
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.csproj.CoreCompileInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\bin\Debug\netcoreapp3.1\birim.exe
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\bin\Debug\netcoreapp3.1\birim.deps.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\bin\Debug\netcoreapp3.1\birim.runtimeconfig.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\bin\Debug\netcoreapp3.1\birim.runtimeconfig.dev.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\bin\Debug\netcoreapp3.1\birim.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\bin\Debug\netcoreapp3.1\birim.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.genruntimeconfig.cache

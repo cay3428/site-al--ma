@@ -1,0 +1,4 @@
+C:\Users\ACem_\Documents\GitHub\site-al--ma\deavm\obj\Debug\netcoreapp3.1\deavm.csprojAssemblyReference.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\deavm\obj\Debug\netcoreapp3.1\deavm.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\deavm\obj\Debug\netcoreapp3.1\deavm.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\site-al--ma\deavm\obj\Debug\netcoreapp3.1\deavm.csproj.CoreCompileInputs.cache

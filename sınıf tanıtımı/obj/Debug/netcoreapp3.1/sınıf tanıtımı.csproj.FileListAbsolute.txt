@@ -1,0 +1,13 @@
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\obj\Debug\netcoreapp3.1\sınıf tanıtımı.csprojAssemblyReference.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\obj\Debug\netcoreapp3.1\sınıf tanıtımı.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\obj\Debug\netcoreapp3.1\sınıf tanıtımı.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\obj\Debug\netcoreapp3.1\sınıf tanıtımı.csproj.CoreCompileInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\bin\Debug\netcoreapp3.1\sınıf tanıtımı.exe
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\bin\Debug\netcoreapp3.1\sınıf tanıtımı.deps.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\bin\Debug\netcoreapp3.1\sınıf tanıtımı.runtimeconfig.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\bin\Debug\netcoreapp3.1\sınıf tanıtımı.runtimeconfig.dev.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\bin\Debug\netcoreapp3.1\sınıf tanıtımı.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\bin\Debug\netcoreapp3.1\sınıf tanıtımı.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\obj\Debug\netcoreapp3.1\sınıf tanıtımı.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\obj\Debug\netcoreapp3.1\sınıf tanıtımı.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\sınıf tanıtımı\obj\Debug\netcoreapp3.1\sınıf tanıtımı.genruntimeconfig.cache
