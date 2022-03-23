@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "matematik", "..\matematik\m
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "değer referans atama", "..\değer referans atama\değer referans atama.csproj", "{BDFEF204-7297-4712-A74A-0E4DE2BFAB3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "..\OOP1\OOP1.csproj", "{132D8759-4433-49EB-B683-01C88023131E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BDFEF204-7297-4712-A74A-0E4DE2BFAB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDFEF204-7297-4712-A74A-0E4DE2BFAB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDFEF204-7297-4712-A74A-0E4DE2BFAB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132D8759-4433-49EB-B683-01C88023131E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132D8759-4433-49EB-B683-01C88023131E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132D8759-4433-49EB-B683-01C88023131E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132D8759-4433-49EB-B683-01C88023131E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
