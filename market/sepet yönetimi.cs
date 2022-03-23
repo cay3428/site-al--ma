@@ -15,9 +15,10 @@ namespace market
 
         }
 
-        public void Edin2(string urunAdi, string açıklama, double fiyat)
+        public void Edin2(string urunAdi, string açıklama, double fiyat,int stokAdedi)
         {
 
+            Console.WriteLine("Edinildi,Çantaya eklendi : " + urunAdi);
 
 
         }

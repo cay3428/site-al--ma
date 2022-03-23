@@ -43,7 +43,9 @@ namespace market
             sepetyönetim.Edin(urun1);
             sepetyönetim.Edin(urun2);
 
-
+            sepetyönetim.Edin2(" Çakı", "İsveç çakısı", 80,1);
+            sepetyönetim.Edin2("ip", "4 metrelik ", 25,6);
+            sepetyönetim.Edin2("kalas", "çürümüş", 10,30);
 
 
 

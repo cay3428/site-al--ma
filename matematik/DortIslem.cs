@@ -2,7 +2,7 @@
 
 namespace matematik
 {
-    class Program
+    class DortIslem
     {
         public void topla(int sayi1,int sayi2)
         {
