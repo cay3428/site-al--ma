@@ -10,3 +10,4 @@ C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\bin\Debug\netcoreapp3.1\kol
 C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.dll
 C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.pdb
 C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.genruntimeconfig.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.csprojAssemblyReference.cache

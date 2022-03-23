@@ -10,3 +10,4 @@ C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\bin\Debug\netcoreapp3.1\birim.
 C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.dll
 C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.pdb
 C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.genruntimeconfig.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\birim\obj\Debug\netcoreapp3.1\birim.csprojAssemblyReference.cache

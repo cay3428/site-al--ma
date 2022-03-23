@@ -7,7 +7,7 @@ namespace genel_methodlar
 {
     class listem<T>
     {
-        T[] itemler;
+        T[] items;
         public void Ekle(T item  )
         {
                         

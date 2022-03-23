@@ -1,0 +1,13 @@
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\obj\Debug\netcoreapp3.1\genel methodlar.csprojAssemblyReference.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\obj\Debug\netcoreapp3.1\genel methodlar.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\obj\Debug\netcoreapp3.1\genel methodlar.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\obj\Debug\netcoreapp3.1\genel methodlar.csproj.CoreCompileInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\bin\Debug\netcoreapp3.1\genel methodlar.exe
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\bin\Debug\netcoreapp3.1\genel methodlar.deps.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\bin\Debug\netcoreapp3.1\genel methodlar.runtimeconfig.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\bin\Debug\netcoreapp3.1\genel methodlar.runtimeconfig.dev.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\bin\Debug\netcoreapp3.1\genel methodlar.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\bin\Debug\netcoreapp3.1\genel methodlar.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\obj\Debug\netcoreapp3.1\genel methodlar.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\obj\Debug\netcoreapp3.1\genel methodlar.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\genel methodlar\obj\Debug\netcoreapp3.1\genel methodlar.genruntimeconfig.cache

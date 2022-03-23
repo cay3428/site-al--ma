@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Collections;
 
 namespace genel_methodlar
 {
@@ -6,7 +8,13 @@ namespace genel_methodlar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            listem<string> isimler = new listem<string>();
+            isimler.Ekle("zazğa");
+
+            List<string> tatata = new List<string>();
+            Console.WriteLine(tatata.Count);
+            
+ 
+    }
     }
 }

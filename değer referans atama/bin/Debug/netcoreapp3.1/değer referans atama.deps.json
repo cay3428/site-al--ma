@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "değer referans atama/1.0.0": {
+        "runtime": {
+          "değer referans atama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "değer referans atama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

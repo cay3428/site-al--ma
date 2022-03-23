@@ -1,0 +1,13 @@
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\bin\Debug\netcoreapp3.1\değer referans atama.exe
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\bin\Debug\netcoreapp3.1\değer referans atama.deps.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\bin\Debug\netcoreapp3.1\değer referans atama.runtimeconfig.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\bin\Debug\netcoreapp3.1\değer referans atama.runtimeconfig.dev.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\bin\Debug\netcoreapp3.1\değer referans atama.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\bin\Debug\netcoreapp3.1\değer referans atama.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\obj\Debug\netcoreapp3.1\değer referans atama.csprojAssemblyReference.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\obj\Debug\netcoreapp3.1\değer referans atama.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\obj\Debug\netcoreapp3.1\değer referans atama.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\obj\Debug\netcoreapp3.1\değer referans atama.csproj.CoreCompileInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\obj\Debug\netcoreapp3.1\değer referans atama.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\obj\Debug\netcoreapp3.1\değer referans atama.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\değer referans atama\obj\Debug\netcoreapp3.1\değer referans atama.genruntimeconfig.cache
