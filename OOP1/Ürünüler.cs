@@ -20,10 +20,7 @@ namespace OOP1
 
             ürün_yönetim ürnynt = new ürün_yönetim();
             ürnynt.Ekle(program1);
-
-
-
-
+        
 
         }
 

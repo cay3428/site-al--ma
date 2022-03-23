@@ -1,0 +1,12 @@
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.csproj.CoreCompileInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\bin\Debug\netcoreapp3.1\koleksiy.exe
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\bin\Debug\netcoreapp3.1\koleksiy.deps.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\bin\Debug\netcoreapp3.1\koleksiy.runtimeconfig.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\bin\Debug\netcoreapp3.1\koleksiy.runtimeconfig.dev.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\bin\Debug\netcoreapp3.1\koleksiy.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\bin\Debug\netcoreapp3.1\koleksiy.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\koleksiy\obj\Debug\netcoreapp3.1\koleksiy.genruntimeconfig.cache
