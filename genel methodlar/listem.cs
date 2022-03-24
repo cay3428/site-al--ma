@@ -32,6 +32,11 @@ namespace genel_methodlar
             get { return items; }
         }
 
+        public int Length
+        {
+            get { return items.Length; }
+
+        }
 
     }
     }

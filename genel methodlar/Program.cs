@@ -10,14 +10,27 @@ namespace genel_methodlar
         {
             listem<string> isimler = new listem<string>();
             isimler.Ekle("zazğa");
-            Console.WriteLine(isimler);
+            Console.WriteLine(isimler.Length);
             isimler.Ekle("kerem");
 
+            Console.WriteLine(isimler.Length);
 
-            List<string> tatata = new List<string>();
-            Console.WriteLine(tatata.Count);
-            
- 
-    }
+            foreach( var isim in isimler.Items)
+            {
+
+                Console.WriteLine(isim);
+
+
+            }
+
+
+
+
+
+            //List<string> tatata = new List<string>();
+            //Console.WriteLine(tatata.Count);
+
+
+        }
     }
 }
