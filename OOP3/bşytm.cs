@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP3
 {
-    class BaşvuruYönetim
+    class bşytm
     {
         //Evsaygınlığıyönetimi evsaygınlığıyönetimi = new Evsaygınlığıyönetimi();
         //Evsaygınlığıyönetimi. 

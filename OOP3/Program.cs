@@ -7,15 +7,16 @@ namespace OOP3
         static void Main(string[] args)
         {
            ISaygınlıkYönetimi ihtiyacSaygınlıkYönetimi = new İhtiyacSaygınlıkYönetimi();
-            ihtiyacSaygınlıkYönetimi.Hesapla();
-
             ISaygınlıkYönetimi taşıtSaygınlıkYönetimi = new TaşıtSaygınlıkYönetimi ();
-            taşıtSaygınlıkYönetimi.Hesapla();
-
             ISaygınlıkYönetimi evsaygınlığıyönetimi = new Evsaygınlığıyönetimi();
-            evsaygınlığıyönetimi.Hesapla();
 
+            BaşvuruYönetimi başvuruYönetimi = new BaşvuruYönetimi();
+            başvuruYönetimi.BaşvuruYap(ihtiyacSaygınlıkYönetimi);
 
         }
     }
 }
+
+//evsaygınlığıyönetimi.Hesapla();
+//ihtiyacSaygınlıkYönetimi.Hesapla();
+//taşıtSaygınlıkYönetimi.Hesapla();
