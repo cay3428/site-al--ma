@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace OOP3
 {
@@ -10,8 +11,21 @@ namespace OOP3
             ISaygınlıkYönetimi taşıtSaygınlıkYönetimi = new TaşıtSaygınlıkYönetimi ();
             ISaygınlıkYönetimi evsaygınlığıyönetimi = new Evsaygınlığıyönetimi();
 
+            ISoytarı dosyaHizmeti = new DosyaaHizmeti();
+            ISoytarı soytaro = new SoytarınınHizmeti();
+
+  
             BaşvuruYönetimi başvuruYönetimi = new BaşvuruYönetimi();
-            başvuruYönetimi.BaşvuruYap(ihtiyacSaygınlıkYönetimi);
+            başvuruYönetimi.BaşvuruYap(ihtiyacSaygınlıkYönetimi, soytaro,new KöylüSaygınlıkYönetimi(),new İleti_belgeleme_hizmeti());
+            List<ISaygınlıkYönetimi> saygınlıks = new List<ISaygınlıkYönetimi>() {ihtiyacSaygınlıkYönetimi,taşıtSaygınlıkYönetimi,evsaygınlığıyönetimi  };
+            başvuruYönetimi.saygınlıkbildirisiyap(saygınlıks);
+
+
+
+
+
+
+
 
         }
     }

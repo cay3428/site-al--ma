@@ -6,22 +6,24 @@ namespace OOP3
 {
     class BaşvuruYönetimi
     {
-        public void BaşvuruYap(ISaygınlıkYönetimi saygınlıkYönetimi)
+        public void BaşvuruYap(ISaygınlıkYönetimi saygınlıkYönetimi,ISoytarı soytarı)
         {
 
-            saygınlıkYönetimi.Hesapla(); 
+            saygınlıkYönetimi.Hesapla();
+            soytarı.Log();
 
+        }
+        public void saygınlıkbildirisiyap(List<ISaygınlıkYönetimi> saygınlıklarq)
+        {
+            foreach (var saygınlık in saygınlıklarq)
+            {
+                saygınlık.Hesapla();
 
-
-
-
-
-
-
-
-
-
-
+            }
+        
+        
+        
+        
 
 
         }
