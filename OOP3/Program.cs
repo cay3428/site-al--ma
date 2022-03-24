@@ -6,7 +6,16 @@ namespace OOP3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           ISaygınlıkYönetimi ihtiyacSaygınlıkYönetimi = new İhtiyacSaygınlıkYönetimi();
+            ihtiyacSaygınlıkYönetimi.Hesapla();
+
+            ISaygınlıkYönetimi taşıtSaygınlıkYönetimi = new TaşıtSaygınlıkYönetimi ();
+            taşıtSaygınlıkYönetimi.Hesapla();
+
+            ISaygınlıkYönetimi evsaygınlığıyönetimi = new Evsaygınlığıyönetimi();
+            evsaygınlığıyönetimi.Hesapla();
+
+
         }
     }
 }

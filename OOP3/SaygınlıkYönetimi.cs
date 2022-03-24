@@ -4,7 +4,11 @@ using System.Text;
 
 namespace OOP3
 {
-    class İtibar_yönetimi
+    interface ISaygınlıkYönetimi
     {
+        void Hesapla();
+        void zımbırtı();
+        
+         
     }
 }

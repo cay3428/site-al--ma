@@ -1,0 +1,13 @@
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\ACem_\Documents\GitHub\site-al--ma\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
