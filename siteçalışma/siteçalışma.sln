@@ -13,17 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "market", "..\market\market.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "matematik", "..\matematik\matematik.csproj", "{AC0F79EB-AC16-4891-B843-5A6DE2E5121F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "değer referans atama", "..\değer referans atama\değer referans atama.csproj", "{BDFEF204-7297-4712-A74A-0E4DE2BFAB3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "değer referans atama", "..\değer referans atama\değer referans atama.csproj", "{BDFEF204-7297-4712-A74A-0E4DE2BFAB3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "..\OOP1\OOP1.csproj", "{132D8759-4433-49EB-B683-01C88023131E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "..\OOP1\OOP1.csproj", "{132D8759-4433-49EB-B683-01C88023131E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koleksiy", "..\koleksiy\koleksiy.csproj", "{31898E2E-43C9-45C7-97C7-B67C800DC914}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "koleksiy", "..\koleksiy\koleksiy.csproj", "{31898E2E-43C9-45C7-97C7-B67C800DC914}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "genel methodlar", "..\genel methodlar\genel methodlar.csproj", "{37205D62-6684-4C55-B3EE-4D85AA6F459B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "genel methodlar", "..\genel methodlar\genel methodlar.csproj", "{37205D62-6684-4C55-B3EE-4D85AA6F459B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "..\OOP2\OOP2.csproj", "{4A2A6032-924A-4E6C-9738-2EA958D0B487}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "..\OOP2\OOP2.csproj", "{4A2A6032-924A-4E6C-9738-2EA958D0B487}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "..\OOP3\OOP3.csproj", "{2CD09221-946C-4CD0-88A1-82FB07122231}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "..\OOP3\OOP3.csproj", "{2CD09221-946C-4CD0-88A1-82FB07122231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gamerrr", "..\gamerrr\gamerrr.csproj", "{C44D4180-3963-4D33-84CF-CCE6CBB042F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{2CD09221-946C-4CD0-88A1-82FB07122231}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CD09221-946C-4CD0-88A1-82FB07122231}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CD09221-946C-4CD0-88A1-82FB07122231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44D4180-3963-4D33-84CF-CCE6CBB042F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44D4180-3963-4D33-84CF-CCE6CBB042F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44D4180-3963-4D33-84CF-CCE6CBB042F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44D4180-3963-4D33-84CF-CCE6CBB042F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
