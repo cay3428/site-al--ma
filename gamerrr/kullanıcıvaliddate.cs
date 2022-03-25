@@ -1,11 +1,11 @@
-﻿using OOP3;
+﻿using gamerrr;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace gamerrr
 {
-    class kullanıcıvaliddate : IValiddate
+    class kullanıcıvaliddate : Ivald
     {
         public bool kuvalidatte(Gamer gamer)
         {
